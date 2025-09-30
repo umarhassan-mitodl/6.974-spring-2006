@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "4a5bf317-468c-5099-81ec-630c77b58049",
+  "instructors": {
+    "content": [
+      "84269d52-8c13-acbb-c323-29f0dd2818a9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e56304d7-cbda-6c2f-cf2a-1c45476aad6e",
+    "website": "6-974-fundamentals-of-photonics-quantum-electronics-spring-2006"
+  },
+  "course_title": "Fundamentals of Photonics: Quantum Electronics",
+  "hide_download": true,
+  "course_description": "This course explores the fundamentals of optical and optoelectronic phenomena and devices based on classical and quantum properties of radiation and matter culminating in lasers and applications. Fundamentals include: Maxwell's electromagnetic waves, resonators and beams, classical ray optics and optical systems, quantum theory of light, matter and its interaction, classical and quantum noise, lasers and laser dynamics, continuous wave and short pulse generation, light modulation; examples from integrated optics and semiconductor optoelectronics and nonlinear optics.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.097",
+  "primary_course_number": "6.974",
+  "course_image_thumbnail": {
+    "content": "73bd45ef-4940-074c-cf1d-8534a495a700",
+    "website": "6-974-fundamentals-of-photonics-quantum-electronics-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "c7773ff6-0214-4f97-ac80-17088ac7df3f",
+  "site_short_id": "6.974-spring-2006",
+  "site_url_path": "courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006",
+  "title": "Course Metadata"
+}
